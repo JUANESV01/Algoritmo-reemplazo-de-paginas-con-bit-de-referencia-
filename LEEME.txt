@@ -1,0 +1,6 @@
+Reemplazo de páginas mejorado (FIFO, LRU, MRU + F, R, Pr)
+Abrir: doble clic en index.html (necesita internet para cargar React y la tipografía).
+index.html   estructura
+css/styles.css   diseño
+js/engine.js   algoritmos (estándar, óptimo y mejorado)
+js/app.js   interfaz en React
